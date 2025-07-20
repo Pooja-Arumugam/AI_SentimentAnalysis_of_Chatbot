@@ -1,0 +1,6 @@
+transformers
+pandas
+numpy
+PyTorch
+TensorFlow
+torch
